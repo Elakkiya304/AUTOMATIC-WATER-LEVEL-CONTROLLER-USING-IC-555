@@ -47,7 +47,7 @@ Ideal for **homes, agriculture, industries, and buildings**.
 ![Hardware Diagram](hard1.jpeg)
 
 
-![Hardware Diagram](hard1.jpeg)
+![Hardware Diagram](hard2.jpeg)
 
 
 ## ⭐ Advantages
