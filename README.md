@@ -44,7 +44,7 @@ Ideal for **homes, agriculture, industries, and buildings**.
 
 ---
 ## Hardware Diagram
-![Circuit Diagram](image.png)
+![Hardware Diagram](hard1.jpeg)
 
 
 ## ⭐ Advantages
